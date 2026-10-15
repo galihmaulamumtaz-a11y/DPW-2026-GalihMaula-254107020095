@@ -38,5 +38,3 @@ async function muatDaftarAnggota() {
 }
 
 document.addEventListener("DOMContentLoaded", muatDaftarAnggota);
-
-// lcmasknmcsaknci
